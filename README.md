@@ -10,4 +10,9 @@ cryptography.ipynb:
 
 consensus.ipynb:
 
+- Proof-of-work
+- Blocks
+- Merkle Trees
+- Blockchain
+
 Twitter Thread: https://twitter.com/Crypto_McKenna/status/1262733881289170945
