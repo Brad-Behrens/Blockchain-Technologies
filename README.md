@@ -11,8 +11,12 @@ cryptography.ipynb:
 consensus.ipynb:
 
 - Proof-of-work
-- Blocks
+- P2P Web Socket (optional)
+
+blockchain.ipynb
+
 - Merkle Trees
+- Blocks
 - Blockchain
 
 Twitter Thread: https://twitter.com/Crypto_McKenna/status/1262733881289170945
